@@ -29,6 +29,8 @@ In the next few lessons, we'll be going through the following steps.
 * Setup API Gateway for API management
 
 ### Lambda Function Code:
+Role- AmazonDynamoDBReadOnlyAccess, AWSLambdaBasicExecutionRole
+
 
 ```python
 import json
